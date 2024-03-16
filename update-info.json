@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "v2tabsalpha@soulhotel.net": {
+      "updates": [
+        {
+          "version": "0.1",
+          "update_link": "https://github.com/soulhotel/v2-Tabs-alpha-/raw/main/0.1.xpi"
+        }
+      ]
+    }
+  }
+}
