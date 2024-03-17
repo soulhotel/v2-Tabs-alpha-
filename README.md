@@ -5,7 +5,7 @@
 - Right click a link / right click a tab, select view in 2 tabs
 - Does not work with Firefox `about:` pages, or security sensitive websites
 - To download go to about:config, change `xpinstall.signatures.required` to false
-- https://addons.mozilla.org/firefox/downloads/file/4250967/5dbe330adeb9499bbf6c-0.1.xpi
+- https://addons.mozilla.org/firefox/downloads/file/4251196/v2developing-0.1.1.xpi
 - users of userChrome to increase side bar max size, use this:
 `#sidebar-box {max-width: 50vw !important;}`
 
