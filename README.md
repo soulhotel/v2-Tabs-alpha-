@@ -4,7 +4,7 @@
 - For firefox v60+
 - Right click a link / right click a tab, select view in 2 tabs
 - Does not work with Firefox `about:` pages, or security sensitive websites
-- [Get the extension](https://addons.mozilla.org/firefox/downloads/file/4250967/5dbe330adeb9499bbf6c-0.1.xpi)
+- [Click here to add extension](https://addons.mozilla.org/firefox/downloads/file/4250967/5dbe330adeb9499bbf6c-0.1.xpi)
 
 - users of userChrome to increase side bar max size, use this:
 `#sidebar-box {max-width: 50vw !important;}`
